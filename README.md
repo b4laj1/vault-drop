@@ -11,5 +11,8 @@ The frontend is built with **React** and styled using **Material UI**.
 
 ## Setup & Installation  
 
-- Clone the repository and run backend first and frontend
+- Clone the repository 
+- git clone https://github.com/b4laj1/vault-drop.git
+- cd vault-drop
+
 

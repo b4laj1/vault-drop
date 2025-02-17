@@ -32,4 +32,6 @@ S3_BUCKET_NAME=your-bucket-name
 S3_REGION=your-region
 
 
-### env configuration  
+### start application
+
+npm start
